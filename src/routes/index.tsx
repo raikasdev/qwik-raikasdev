@@ -146,6 +146,20 @@ export default component$(() => {
         </tr>
         <tr>
           <td>
+            <code>Mastodon</code>
+          </td>
+          <td>
+            <a
+              href="https://techspace.social/@raikas"
+              rel="me"
+              target="_blank"
+            >
+              @raikas@techspace.social
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <code>LinkedIn</code>
           </td>
           <td>
