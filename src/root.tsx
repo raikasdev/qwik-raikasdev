@@ -15,6 +15,7 @@ export default component$(() => {
     <QwikCity>
       <head>
         <meta charSet="utf-8" />
+        <a rel="me" href="https://techspace.social/@raikas">Mastodon</a>
         <RouterHead />
       </head>
       <body lang="en">
