@@ -150,11 +150,11 @@ export default component$(() => {
           </td>
           <td>
             <a
-              href="https://techspace.social/@raikas"
+              href="https://mastodon.testausserveri.fi/@raikas"
               rel="me"
               target="_blank"
             >
-              @raikas@techspace.social
+              @raikas@mastodon.testausserveri.fi
             </a>
           </td>
         </tr>
