@@ -16,7 +16,7 @@ export default component$(() => {
           Physically located in <b className="blue">Jämsä, Finland</b>
         </li>
         <li>
-          Currently working on: <a href="https://ritta.fi/pulpetti">Pulpetti (education portal)</a> and <a href="https://novu.co">Novu (notification infrastructure)</a>
+          Currently working on: <a href="https://koneseppa.fi">Koneseppä</a> computer shop.
         </li>
       </ul>
 
@@ -31,19 +31,13 @@ export default component$(() => {
         </tr>
         <tr>
           <td>
-            <code>Ritta</code>
+            <code>Ritta (abandoned)</code>
           </td>
           <td>Modern open-source student information system</td>
         </tr>
         <tr>
           <td>
-            <code>Ritta Pulpetti</code>
-          </td>
-          <td>Easy-to-use SSO portal for education use</td>
-        </tr>
-        <tr>
-          <td>
-            <code>Novu (team member)</code>
+            <code>Novu (ex-team member)</code>
           </td>
           <td>Open-source notification infrastructure for developers</td>
         </tr>
@@ -75,7 +69,7 @@ export default component$(() => {
             <code>Music</code>
           </td>
           <td>
-            The Stupendium, Musiclide, The Chalkeaters, Retropop, Little Big
+            The Stupendium, Musiclide, The Chalkeaters, Little Big
           </td>
         </tr>
         <tr>
@@ -83,7 +77,7 @@ export default component$(() => {
             <code>Programming</code>
           </td>
           <td>
-            TypeScript, React, NestJS, Fastify, VSCode
+            TypeScript, React, Fastify, VSCode
           </td>
         </tr>
         <tr>
